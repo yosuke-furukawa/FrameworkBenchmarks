@@ -1,0 +1,14 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "async": "^0.9.0",
+    "bluebird": "^2.9.13",
+    "mapper": "^0.2.5",
+    "mongodb": "^1.4.34",
+    "mongoose": "^3.8.24",
+    "mysql-libmysqlclient": "^1.6.0"
+  },
+  "main": "hello.js"
+}
